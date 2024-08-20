@@ -1,4 +1,4 @@
-# 🚀 Vince's Coding Portfolio
+# 🚀 Vince's Coding Portfolio (In progress)
 
 Welcome to my coding portfolio! Here, you'll find a collection of projects that showcase my skills, expertise, and passion for software development and cybersecurity. Feel free to explore the projects and reach out if you’d like to collaborate or discuss anything!
 
@@ -7,7 +7,7 @@ Welcome to my coding portfolio! Here, you'll find a collection of projects that 
 - [LinkedIn](https://www.linkedin.com/in/yourprofile)
 - [Personal Website/Blog](https://yourwebsite.com)
 - [Twitter](https://twitter.com/yourhandle)
-- [Email](mailto:your.email@example.com)
+- [Email](mailto:vince.jonese@google.com)
 
 ## 🛠️ Skills
 
