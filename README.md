@@ -1,8 +1,1 @@
-# C++ RoomCapacity
-
-# This code checks the room capacity bases on a specified number and notifies the user if the numbers has exceeded the established room capacity or not.
-
-
-## How to Compile and Run - Enter numerical values when prompted and run the code.
-
-
+Welcome to the master branch of my coding portfolio! This branch showcases a collection of C++ and Python projects that I have completed. Each project demonstrates different aspects of my programming skills, from algorithm implementation to software development. Browse through the code to see examples of my work in these two powerful programming languages.
